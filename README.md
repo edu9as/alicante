@@ -22,6 +22,10 @@ Creemos que juntos podemos hacer grandes cosas, y esperamos que este repositorio
 
 Este repositorio es un esfuerzo colaborativo y estamos abiertos a la contribución de cualquier persona interesada en mejorar el contenido del mismo. Si deseas contribuir con algún conjunto de datos, proyecto o recurso, simplemente crea un pull request en GitHub y estaremos encantados de revisarlo.
 
+### *Contributors*
+
+* [JesusGF1](https://github.com/JesusGF1)
+
 ## ¿Cómo buscar en el repositorio?
 
 Para facilitar la búsqueda de información en este repositorio, recomendamos utilizar la barra de búsqueda de GitHub. Simplemente introduce las palabras clave que estás buscando y haz clic en la lupa para ver los resultados. Además, puedes utilizar las etiquetas (tags) para buscar proyectos y conjuntos de datos específicos.
