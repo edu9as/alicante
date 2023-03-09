@@ -26,6 +26,6 @@ Aquí se añadirán conjuntos de datos de restaurantes y más, con el nombre y U
 
 Se irán recogiendo titulares y otros datos sobre las noticias publicadas por los medios alicantinos más populares.
 
-## Investigac
+## Investigación científica
 
 Los últimos trabajos publicados por grupos de científicos en los centros de investigación de la ciudad también aparecerán en esta sección.
